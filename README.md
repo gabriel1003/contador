@@ -1,16 +1,54 @@
-# contador
+#  Flutter
 
-A new Flutter project.
+Este projeto é um aplicativo contador simples desenvolvido em Flutter. Ele foi criado usando o Visual Studio Code e pode ser executado tanto na web quanto em dispositivos Android e Linux.
 
-## Getting Started
+## Como usar
 
-This project is a starting point for a Flutter application.
+    Clone o repositório:
+# Contador Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Este projeto é um aplicativo contador simples desenvolvido em Flutter. Ele foi criado usando o Visual Studio Code e pode ser executado tanto na web quanto em dispositivos Android e Linux.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como usar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone http://github.com/gabriel1003/contador.git
+
+# Contador Flutter
+
+Este projeto é um aplicativo contador simples desenvolvido em Flutter. Ele foi criado usando o Visual Studio Code e pode ser executado tanto na web quanto em dispositivos Android e Linux.
+
+## Como usar
+
+```bash
+git clone http://github.com/gabriel1003/contador.git
+
+Acesse a pasta do projeto:
+```bash
+
+cd: [o caminho aonde você clonou o repositório]
+
+Instale as dependências:
+```bash
+
+flutter pub get
+
+Execute o aplicativo:
+```bash
+
+flutter run
+
+## Pré-requisitos
+
+    Flutter: Certifique-se de ter o Flutter instalado em sua máquina. Para instruções de instalação, consulte a documentação oficial do Flutter.
+    [documentação oficial do Flutter](https://flutter.dev/docs/get-started/install)
+
+## Plataformas Suportadas
+
+    * Web
+* Android
+    * Linux
+
+Observação: Para executar o aplicativo na web, você precisará habilitar a compilação para a web no Flutter. Consulte a documentação do Flutter para obter mais informações.
+
+*Divirta-se explorando o projeto! Sinta-se à vontade para contribuir ou relatar problemas.*
